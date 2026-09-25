@@ -5,20 +5,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Aditya%20Gola&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:0F172A,45:1E3A8A,100:06B6D4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Aditya%20Gola&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:DBEAFE,45:2563EB,100:0891B2"
+    srcset="./art/header-dark.png"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Aditya%20Gola&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:0F172A,45:1E3A8A,100:06B6D4"
+    src="./art/header-light.png"
     width="100%"
     alt="Aditya Gola"
   />
 </picture>
 
-<br>
+<br><br>
 
 <h1>Hey there, I'm Aditya Gola</h1>
 
