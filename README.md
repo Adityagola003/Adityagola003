@@ -42,13 +42,14 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table align="center">
 <tr>
+
 <td width="65%" valign="top">
 
-<h3>Who I Am</h3>
+
 
 <p>
 I'm <strong>Aditya Gola</strong>, a Computer Science Engineering student passionate about
@@ -56,23 +57,24 @@ I'm <strong>Aditya Gola</strong>, a Computer Science Engineering student passion
 </p>
 
 <p>
-I enjoy creating AI-powered applications and full-stack products, solving challenging
-problems, and exploring how intelligent systems can be integrated into real-world software.
+I enjoy creating AI-powered applications, developing full-stack products,
+solving challenging problems, and exploring how intelligent systems can be
+integrated into real-world software.
 </p>
 
 <p>
-<strong>Education:</strong> B.Tech CSE — ABES Engineering College<br>
-<strong>Focus:</strong> AI-powered applications, Software Development & DSA<br>
-<strong>Interests:</strong> Artificial Intelligence, Machine Learning & Full Stack Development<br>
-<strong>Currently Building:</strong> OmniVision<br>
-<strong>Currently Learning:</strong> AI/ML, Backend Development, DSA & System Design<br>
-<strong>Goal:</strong> Build intelligent software products that solve real-world problems<br>
-<strong>Location:</strong> India
+🎓 <strong>Education:</strong> B.Tech CSE — ABES Engineering College<br>
+🤖 <strong>Focus:</strong> AI, Software Development & DSA<br>
+🧠 <strong>Interests:</strong> Artificial Intelligence, Machine Learning & Full Stack Development<br>
+🔭 <strong>Currently Building:</strong> OmniVision<br>
+📚 <strong>Currently Learning:</strong> AI/ML, Backend Development, DSA & System Design<br>
+🎯 <strong>Goal:</strong> Build intelligent software products that solve real-world problems<br>
+🌐 <strong>Location:</strong> India
 </p>
 
 <p>
-I believe in learning by building, writing clean code, and continuously improving my
-technical and problem-solving skills.
+💡 I believe in learning by building, writing clean code, and continuously
+improving my technical and problem-solving skills.
 </p>
 
 </td>
@@ -87,9 +89,10 @@ technical and problem-solving skills.
 
 <br><br>
 
-<p><strong>Building. Learning. Improving.</strong></p>
+<p><strong>💻 Building. Learning. Improving.</strong></p>
 
 </td>
+
 </tr>
 </table>
 
@@ -134,47 +137,28 @@ technical and problem-solving skills.
 
 <br>
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-
-<h2 align="center">Contribution Activity</h2>
-
-<div align="center">
-
-<a href="https://github.com/Adityagola003">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adityagola003&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=38BDF8&area_color=1F6FEB&area=true&hide_border=true&custom_title=Aditya%20Gola's%20Contribution%20Graph"
-  alt="Aditya Gola's GitHub Activity Graph"
-/>
-
-</a>
-
-</div>
-
-<br>
 
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
-<h2 align="center">Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 <br>
 
