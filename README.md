@@ -143,21 +143,11 @@ improving my technical and problem-solving skills.
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Adityagola003/Adityagola003/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img
+    src="https://github.com/Adityagola003/Adityagola003/blob/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <br>
