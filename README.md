@@ -27,9 +27,15 @@
 
 <br><br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityagola003&label=Profile%20Views&style=flat-square&color=0e75b6" alt="Profile Views" />
-</p>
+</p>  -->
+<!-- <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityagola003.Adityagola003&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p> -->
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Adityagola003.Adityagola003&text=Profile%20Views&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p> 
 
 </div>
 
