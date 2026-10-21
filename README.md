@@ -27,10 +27,9 @@
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Adityagola003&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityagola003&label=Profile%20Views&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
 
 </div>
 
